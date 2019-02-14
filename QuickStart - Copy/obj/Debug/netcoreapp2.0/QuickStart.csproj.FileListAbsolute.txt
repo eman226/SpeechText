@@ -1,0 +1,26 @@
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\bin\Debug\netcoreapp2.0\audio.raw
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.deps.json
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.runtimeconfig.json
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.runtimeconfig.dev.json
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.dll
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.pdb
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.AssemblyInfo.cs
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.dll
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.pdb
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Documents\Engineering 4\Degree\google_cloud\dotnet-docs-samples-master\dotnet-docs-samples-master\speech\api\QuickStart\bin\Debug\netcoreapp2.0\System.Windows.Forms.VisualStudio.15.0.dll
+C:\Users\Emmanuel\source\repos\QuickStart\bin\Debug\netcoreapp2.0\audio.raw
+C:\Users\Emmanuel\source\repos\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.deps.json
+C:\Users\Emmanuel\source\repos\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.runtimeconfig.json
+C:\Users\Emmanuel\source\repos\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.runtimeconfig.dev.json
+C:\Users\Emmanuel\source\repos\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.dll
+C:\Users\Emmanuel\source\repos\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.pdb
+C:\Users\Emmanuel\source\repos\QuickStart\bin\Debug\netcoreapp2.0\System.Windows.Forms.VisualStudio.15.0.dll
+C:\Users\Emmanuel\source\repos\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\source\repos\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\source\repos\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.AssemblyInfo.cs
+C:\Users\Emmanuel\source\repos\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.dll
+C:\Users\Emmanuel\source\repos\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.pdb
